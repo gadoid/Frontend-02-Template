@@ -78,3 +78,24 @@
     * 静态
       * 在开发设备上
       * Complietime
+* 语言设计方式
+  * Atom —— Expression —— Statement —— Structure —— Program
+  * Atom
+    * 变量声明
+  * Expression
+    * 表达式
+  * Statement
+    * 代码块
+  * Structure
+    * 代码结构 类、函数、进程、命名空间
+  * Program
+    * 程序 Module（准备复用的模块） 、Program（实际执行的项目）
+* JavaScript基本类型
+  * number
+  * string
+  * Boolean
+  * Null
+  * Undefine
+  * Object
+  * Symbol
+  *
